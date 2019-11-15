@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Exyphinos/Desktop/Veri Yapilari/Intercalation in LinkedList/main.c
+stdio.h
+-
+stdlib.h
+-
+
