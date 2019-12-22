@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Exyphinos/Desktop/Stack/main.c
+stdio.h
+-
+stdlib.h
+-
+stack_ll.h
+C:/Users/Exyphinos/Desktop/Stack/stack_ll.h
+
+C:/Users/Exyphinos/Desktop/Stack/stack_ll.h
+
